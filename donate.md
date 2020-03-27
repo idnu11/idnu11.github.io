@@ -1,9 +1,9 @@
 ---
-
 layout: page
 title: Buy me a Coffee
 permalink: /donate/
 nocomments: true
+---
 
 
 ## Thank  you！
