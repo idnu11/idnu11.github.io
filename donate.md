@@ -4,8 +4,7 @@ layout: page
 title: Buy me a Coffee
 permalink: /donate/
 nocomments: true
-public: false
----
+
 
 ## Thank  you！
 
@@ -24,3 +23,5 @@ public: false
 
 
 ​						Bitcoin-Wallet：16CUmU6EEC2XRXbBDzJQf8Y1qhX1SWJDKb
+
+
