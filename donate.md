@@ -2,7 +2,7 @@
 
 layout: page
 title: Buy me a Coffee
-permalink: /donate.html
+permalink: /donate/
 nocomments: true
 public: false
 ---
