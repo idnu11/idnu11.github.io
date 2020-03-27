@@ -1,0 +1,53 @@
+# Site settings
+timezone: China/BeiJing
+title: Idnu11's blog
+url: "http://idnu11.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+#timezone: Asia/Chongqing
+description: >
+  One or more sentences introducing this blog.
+
+# Your information
+email: tosync@qq.com
+author: idnu11
+avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+profile: Safety enthusiast;Anonymous person;;;
+#twitter_username: twitter_username
+github_username:  idnu11
+profile_links:
+  #Email: "email"
+  #gitHub: "https://github.com/idnu11"
+excerpt_separator: <!--more-->
+
+header:
+  links:             # Links on the header. Link to in-site page with a slash as prefix
+    About: /about/
+    Category: /category/
+    Posts: /posts/
+    Donate: /donate/
+permalink: /archivers/:title
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+# https://jekyllrb.com/docs/configuration/#precedence
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
