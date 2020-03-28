@@ -1,21 +1,21 @@
 # Site settings
 timezone: China/BeiJing
 title: Idnu11's blog
-url: "http://idnu11.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "http://idnu11.ninja"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: tosync@qq.com
+email_username: tosync@qq.com
 author: idnu11
 avatar: "https://s1.ax1x.com/2020/03/28/GFEiWV.jpg"
-profile: Safety enthusiast;Anonymous person;;;
-#twitter_username: twitter_username
+profile: web漏洞研究;渗透测试;安全从业者;;;
+twitter_username: idnu11
 github_username:  idnu11
 profile_links:
-  #Email: "email"
+  #Email: "topsync@qq.com"
   #gitHub: "https://github.com/idnu11"
 excerpt_separator: <!--more-->
 
